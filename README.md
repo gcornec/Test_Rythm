@@ -14,7 +14,7 @@ Rq : on remarque que la précision du modèle est meilleure pour les bases de do
 Rq : je n’ai pas mis la normalisation par défaut car lorsque j’ai fait des tests, elle ne donnait pas de meilleurs résultats 
 
 
--	Ensuite j’ai choisit de faire tourner un Random Forest Classifier et j’ai fait une 5-CV sur 5000 observations de la base d’apprentissage pour choisir quels hyperparamètres choisir (nombre d’arbres dans la forêt et nb minimum d’observations dans les feuilles)
+-	Ensuite j’ai choisi de faire tourner un Random Forest Classifier et j’ai fait une 5-CV sur 5000 observations de la base d’apprentissage pour choisir quels hyperparamètres choisir (nombre d’arbres dans la forêt et nb minimum d’observations dans les feuilles)
 
 -	Enfin j’ai fait tourné le meilleur modèle que j’ai trouvé sur les données d’apprentissage et j’ai fait la prédiction finale sur les données de test
 
