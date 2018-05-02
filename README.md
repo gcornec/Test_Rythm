@@ -20,6 +20,6 @@ Rq : je n’ai pas mis la normalisation par défaut car lorsque j’ai fait des 
 
 Si j’avais eu plus de temps :
 -	j’aurais implémenté la métrique de Cohen Kappa
--	j’aurais testé d’autres modèles
+-	j’aurais testé d’autres modèles (notamment des modèles de Deep Learning) et leur hyperparamètres 
 -	j’aurais réfléchi à une meilleure manière de normaliser les données 
 
